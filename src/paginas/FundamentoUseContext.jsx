@@ -1,9 +1,9 @@
-import React from 'react'
+import Casa from '../components/contextFundamentos/Casa'
 
 const FundamentoUseContext = () => {
-  return (
-    <div>FundamentoUseContext</div>
-  )
+    return (
+        <Casa/>
+    )
 }
 
 export default FundamentoUseContext
